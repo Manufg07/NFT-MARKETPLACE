@@ -19,18 +19,17 @@ This repository contains the Solidity smart contract for an NFT marketplace, bui
 - **Event Logging**: The contract emits events for minting, listing, and transfers to ensure transparency. 📊
 - **Upgradability**: The contract has been designed with upgradability in mind to accommodate future features and improvements. 🔧
 
-## Contract Deployment 1 - Sepolia 
+---
 
-```
-https://sepolia.etherscan.io/address/0x5FbDB2315678afecb367f032d93F642f64180aa3
+## **🚀 Deployment**
 
-```
-## Contract Deployment 2 Upgradable - Sepolia 
+### **Contract Deployment 1 - Sepolia**
+- **Address**: [0x5FbDB2315678afecb367f032d93F642f64180aa3](https://sepolia.etherscan.io/address/0x5FbDB2315678afecb367f032d93F642f64180aa3)  
 
-```
-https://sepolia.etherscan.io/address/0x5FbDB2315678afecb367f032d93F642f64180aa3
+### **Contract Deployment 2 (Upgradable) - Sepolia**  
+- **Address**: [0x5FbDB2315678afecb367f032d93F642f64180aa3](https://sepolia.etherscan.io/address/0x5FbDB2315678afecb367f032d93F642f64180aa3)  
 
-```
+---
 
 ### 🔑 Important Notes
 
